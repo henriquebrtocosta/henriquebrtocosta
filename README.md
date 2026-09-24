@@ -1,11 +1,11 @@
-### 👋 Olá! Eu sou o Henrique
+### 👋 Hi! I'm Henrique
 
-🎓 Estudante do 9º ano do Colégio Militar de Juiz de Fora, interessado em programação, IA, robótica e matemática.
+🎓 9th-grade student at Colégio Militar de Juiz de Fora, interested in programming, AI, robotics, mathematics...
 
-💻 Programo em python, em C e outras.
+💻 I program in Python, C, and other languages.
 
-🤖 Desenvolvo e programo robôs e projetos de tecnologia, sou competidor da Olimpíada Brasileira de Robótica (OBR).
+🤖 Developer and programmer of robots and technology projects, and competitor in the Brazilian Robotics Olympiad (OBR).
 
-🌱 Desenvolvedor do LEAF, projeto premiado no 8° Desafio Global do Conhecimento, e participante de olimpíadas científicas como OBMEP, OBIT e Olimpíada do Oceano.
+🌱 Developer of LEAF, an award-winning project at the 8th Desafio Global do Conhecimento in Brasília, and participant in science olympiads such as OBMEP, OBIT, OIMSF, and others.
 
-🚀 Gosto de transformar conhecimento em projetos e estou sempre buscando aprender algo novo.
+🚀 I enjoy turning knowledge into projects and I'm always looking to learn something new.
